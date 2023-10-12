@@ -71,7 +71,7 @@
   <div class="container d-flex justify-content-center py-1 head_container">
     <div class="head-row d-flex gap-4">
       <div class="phone">
-        <p>Developed by Bc190405810</p>
+        <p>Developed by Ehtisham</p>
       </div>
       <div class="mail">
         <p>Virtual University of Paksitan</p>
