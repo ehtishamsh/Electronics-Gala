@@ -61,8 +61,8 @@ Product Details
 Shopping Cart
 ![localhost_practiceProject_cart php](https://github.com/EhtishamShah00/Electronics-Gala/assets/117318809/a97d5b09-83ca-4a1f-8410-5341471d1669)
 
-Checkout!
-[Screenshot 2023-10-13 022524](https://github.com/EhtishamShah00/Electronics-Gala/assets/117318809/7575ccc1-9f25-4670-bed7-03552855df19)
+Checkout
+![Screenshot 2023-10-13 022524](https://github.com/EhtishamShah00/Electronics-Gala/assets/117318809/7575ccc1-9f25-4670-bed7-03552855df19)
 
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
