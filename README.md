@@ -63,7 +63,4 @@ Checkout
 ![Screenshot 2023-10-13 022524](https://github.com/EhtishamShah00/Electronics-Gala/assets/117318809/7575ccc1-9f25-4670-bed7-03552855df19)
 
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details. You are free to use and modify this project for your own purposes. However, if you make improvements or changes, we encourage you to contribute them back to the project.
-
 Thank you for your interest in Electronic Gala! Happy shopping! 🛒🔌📱💻
