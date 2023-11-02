@@ -11,8 +11,6 @@ Welcome to the Electronic Gala GitHub repository! Electronic Gala is a fully fun
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Screenshots](#screenshots)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 Electronic Gala is a user-friendly, responsive electronic ecommerce website that allows users to browse and purchase a wide range of electronic gadgets and accessories. This website is built using a combination of front-end and back-end technologies to ensure a smooth and secure shopping experience.
@@ -64,15 +62,6 @@ Shopping Cart
 Checkout
 ![Screenshot 2023-10-13 022524](https://github.com/EhtishamShah00/Electronics-Gala/assets/117318809/7575ccc1-9f25-4670-bed7-03552855df19)
 
-## Contributing
-If you would like to contribute to this project, please follow these steps:
-
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and test them thoroughly.
-Commit your changes and push them to your fork.
-Create a pull request, explaining the changes you made and why they should be merged.
-We welcome contributions from the community to improve Electronic Gala.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details. You are free to use and modify this project for your own purposes. However, if you make improvements or changes, we encourage you to contribute them back to the project.
