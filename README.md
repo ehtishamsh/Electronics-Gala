@@ -10,8 +10,9 @@ Welcome to the Electronic Gala GitHub repository! Electronic Gala is a fully fun
 3. [Prerequisites](#prerequisites)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Preview](#Preview)
-7. [Screenshots](#screenshots)
+6. [LiveDemo](#livedemo)
+7. [Preview](#Preview)
+8. [Screenshots](#screenshots)
 
 ## Introduction
 Electronic Gala is a user-friendly, responsive electronic ecommerce website that allows users to browse and purchase a wide range of electronic gadgets and accessories. This website is built using a combination of front-end and back-end technologies to ensure a smooth and secure shopping experience.
@@ -49,6 +50,10 @@ Browse the products and add them to your shopping cart.
 Review your cart, proceed to checkout, and make a payment.
 Track your orders and view order history in your account.
 Admins can manage products, categories, and orders through the admin panel.
+
+
+## LiveDemo
+[Click on this Live Link](https://electronics-gala-ecommerce.000webhostapp.com/)
 
 ## Preview:
 
